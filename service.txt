@@ -1,0 +1,147 @@
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h2>Layanan</h2>
+          <p>Layan terbaik kami</p>
+        </header>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-box blue">
+              <i class="ri-bank-card-fill icon"></i>
+              <h3> Payment Point Online Bank</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembayaran
+                menggunakan sistem perbankan.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-box orange">
+              <i class="ri-home-3-line icon"></i>
+              <h3>Jasa Pembayaran PBB</h3>
+              <p>Pelayan terbaik kami untuk customer dalam melakukan pembayran pajak bumi dan bangunan</p>
+            </div>
+          </div>
+
+          <!--<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-box green">
+              <i class="ri-roadster-fill icon"></i>
+              <h3>Jasa Pembayaran dan Pengesahan PKB</h3>
+              <p>Pelayan terbaik kami untuk customer dalam membayar dan pengesahan pajak kendaraan bermotor tahunan</p>
+            </div>
+          </div>-->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-box red">
+              <i class="ri-discuss-line icon"></i>
+              <h3>Penjualan Gas</h3>
+              <p>Pelayanan terbaik kami dalam penjualan Gas LPG 3 kg, Bright Gas 5.5 kg,dan Bright Gas 12 kg</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-box purple">
+              <i class="ri-contrast-drop-2-line icon"></i>
+              <h3>Penjualan Air Sehat</h3>
+              <p>Pelayanan terbaik kami dalam pemenuhan kebutuhan ari sehat Kangen water Ph.9 dan 11.5.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="service-box pink">
+              <i class="ri-booklet-fill icon"></i>
+              <h3>Penjualan ATK</h3>
+              <p>Pelayanan terbaik kami dalam pemenuhan kebutuhan alat tulis kantor terbaik</p>
+            </div>
+          </div>
+
+          <!-- layanan tambahan 1 -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-box blue">
+              <i class="ri-smartphone-line icon"></i>
+              <h3>Pulsa / Data</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembelian
+                pulsa/data</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-box orange">
+              <i class="ri-base-station-fill icon"></i>
+              <h3>Pembayaran Tagian Telkom</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembayaran
+                tagian Telkom</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="4000">
+            <div class="service-box green">
+              <i class="ri-lightbulb-flash-line icon"></i>
+              <h3>Pembayaran Tagian PLN</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembayaran
+                tagian PLN</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-box red">
+              <i class="ri-hospital-fill icon"></i>
+              <h3>Pembayaran Tagian BPJS</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembayaran
+                tagian BPJS</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-box purple">
+              <i class="ri-contrast-drop-2-line icon"></i>
+              <h3>Pembayaran Tagian PDAM</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembayaran
+                tagian PDAM</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="service-box pink">
+              <i class="ri-tv-line icon"></i>
+              <h3>Internet dan TV Kabel</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembayaran
+                internet dan tv kabel</p>
+            </div>
+          </div>
+
+          <!-- layanan tambahan 2 -->
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-box blue">
+              <i class="ri-exchange-dollar-line icon"></i>
+              <h3>Pengiriman Uang</h3>
+              <p>Pelayan terbaik kami pada bidang layanan khusus untuk membantu masyarakat dalam melakukan pembayaran
+                menggunakan sistem perbankan.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-box orange">
+              <i class="ri-wallet-fill icon"></i>
+              <h3>Top Up e-Money</h3>
+              <p>Pelayan terbaik kami untuk customer dalam melakukan topu up e-money</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-box green">
+              <i class="ri-gamepad-line icon"></i>
+              <h3>Top Up Game</h3>
+              <p>Pelayan terbaik kami untuk customer dalam pembayaran / top up game wallet</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- End Services Section -->
